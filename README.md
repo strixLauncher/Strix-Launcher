@@ -4,6 +4,18 @@ A high-performance Minecraft client focused on speed, smooth gameplay, and optim
 
 ---
 
+# ⬇ DOWNLOAD
+
+<div align="center">
+
+<a href="https://your-download-link.com">
+  <img src="https://img.shields.io/badge/DOWNLOAD-STRIX%20LAUNCHER-blue?style=for-the-badge&logo=github" alt="Download Strix Launcher">
+</a>
+
+</div>
+
+---
+
 ## ✨ Features
 
 - ⚡ High FPS optimization
@@ -12,16 +24,6 @@ A high-performance Minecraft client focused on speed, smooth gameplay, and optim
 - 🔧 Easy configuration
 - 🌙 Clean modern UI
 - 🚀 Fast startup and lightweight performance
-
----
-
-## 📦 Installation
-
-1. Download the latest release
-2. Install Java 17 or newer
-3. Launch `Strix Launcher`
-4. Select your Minecraft version
-5. Play
 
 ---
 
@@ -43,9 +45,3 @@ This project is licensed under the MIT License.
 
 Strix Launcher is not affiliated with Mojang or Microsoft.  
 Minecraft is a trademark of Mojang Studios.
-
----
-
-## ❤️ Credits
-
-Developed by Jagath.
