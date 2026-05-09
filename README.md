@@ -48,4 +48,4 @@ Minecraft is a trademark of Mojang Studios.
 
 ## ❤️ Credits
 
-Developed by StrixLauncher Team.
+Developed by Jagath.
